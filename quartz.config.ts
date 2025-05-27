@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "it-IT",
     baseUrl: "scuola.gicorada.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

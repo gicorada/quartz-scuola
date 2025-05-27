@@ -12,8 +12,7 @@
     "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
-    "sync": "bash scripts/sync-appunti.sh",
-    "quartz": "npm run sync && ./quartz/bootstrap-cli.mjs",
+    "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
@@ -24,14 +23,6 @@
     "npm": ">=9.3.1",
     "node": ">=20"
   },
-  "keywords": [
-    "site generator",
-    "ssg",
-    "digital-garden",
-    "markdown",
-    "blog",
-    "quartz"
-  ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
