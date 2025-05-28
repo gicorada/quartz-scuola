@@ -11,3 +11,5 @@ Seleziona una materia per visualizzare gli appunti
 ## [[* Inglese - Argomenti|Inglese]]
 
 ## [[* Matematica - Argomenti|Matematica]]
+
+## [[* Informatica - Argomenti|Informatica]]

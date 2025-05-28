@@ -11,3 +11,4 @@
 [[25-05-07]] Umberto Saba, Relativismo, Montale, Ossi di seppia  
 [[25-05-13]] Montale, Meriggiare  
 [[Primo Levi]] Primo Levi, Se questo è un uomo, Il canto di Ulisse  
+[[Italo Calvino]] Italo Calvino, le sue opere
