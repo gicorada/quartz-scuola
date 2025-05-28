@@ -81,7 +81,7 @@ Il piano produttivo deve quindi essere fortemente rielaborato, economia liberale
 Interi settori di produzione requisiti e gestiti dallo Stato, prezzi controllati ed anche eventuale razionamento dei beni di primo consumo ("socialismo di guerra" secondo gli stati)
 
 **Rivolta** -> Non organizzata, improvvisa e imprevedibile espressione di rabbia del popolo, non vuole rovesciare il Sistema *(5 giornate Milano 1948)*  
-**Golpe** -> Cambiamento coercitivo del sistema, minoranza guidata da leadership, agisce insieme al sistema *(Cile 1973, golpe bianco Italia 1974, ridicolo USA 2021 con Trump)*
+**Golpe** -> Cambiamento coercitivo del sistema, minoranza guidata da leadership, agisce insieme al sistema *(Cile 1973, golpe bianco Italia 1974, ridicolo USA 2021 con Trump)*  
 **Rivoluzione** -> Cambiamento programmatico e duraturo, leadership riconosciuta, il successo della rivoluzione è l'accettazione da parte della maggioranza del nuovo metodo richiesto
 
 Il potere esecutivo diventa sempre più forte, al contrario degli altri poteri  
