@@ -25,11 +25,11 @@ In algebra relazionale: $\bowtie$
 In SQL: `JOIN`
 $R_1 \bowtie R_2$
 $$
-\displaylines{
+
 R_1, R_2\;relazioni \rightarrow Grado(R_1 \bowtie R_2) \leq \\
 \leq Grado(R_1) + Grado(R_2), Cardinalita(R_1 \bowtie R_2) \leq \\
 \leq Cardinalita(R_1) \cdot Cardinalita(R_2)
-}
+
 $$
 Theta-join:
 Algebra: $Impiegati \underset{Progetto=Codice}{\bowtie} Progetti$

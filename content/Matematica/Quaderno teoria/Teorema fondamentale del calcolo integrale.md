@@ -1,7 +1,6 @@
 ## 1
 
 $$
-\displaylines{
 F_0 = \\
 = \int_o^x f(t) \cdot dt \rightarrow F^{'}(x) = \\
 = \lim_{h \to 0} \frac{F(x+h) - F(x)}{h} = \\
@@ -14,5 +13,4 @@ F_0 = \\
 = f(x)
 \\ \\
 F^{'}(x) = f(x)
-}
 $$
