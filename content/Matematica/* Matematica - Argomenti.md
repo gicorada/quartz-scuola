@@ -1,0 +1,12 @@
+## Da quaderno di teoria
+[[Da decimale a frazione]]
+[[Da frazione a decimale]]
+[[Divisione intera]]
+[[Integrali definiti]]
+[[MCD e mcm]]
+[[Numeri interi (o Relativi)]]
+[[Numeri Razionali]]
+[[Proporzioni]]
+[[Proprietà delle potenze]]
+[[Scomposizione in fattori primi]]
+[[Teorema fondamentale del calcolo integrale]]
