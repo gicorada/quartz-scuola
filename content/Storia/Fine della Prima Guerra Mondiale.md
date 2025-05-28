@@ -1,3 +1,6 @@
+---
+title: Fine della Prima Guerra Mondiale
+---
 Dopo la [[Prima Guerra Mondiale]] problemi di natura sociale  
 Le donne avevano un ruolo più attivo nella società (uomini erano al fronte), emancipazione delle donne (porta al suffragio universale)  
 Chi era al fronte si adatta poco ai vecchi impieghi

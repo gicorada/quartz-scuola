@@ -1,3 +1,6 @@
+---
+title: Prima Guerra Mondiale
+---
 Nel *Maggio 1915* Italia inizia corrispondenza con triplice intesa andando contro all'impero Austro-ungarico, contemporaneamente contrattano con Austria
 
 Politica + opinione pubblica in fronti contrapposti

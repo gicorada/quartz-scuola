@@ -1,3 +1,6 @@
+---
+title: D'Annunzio
+---
 Inetti:  
 Verga (ciclo dei vinti) -> D'Annunzio (Andrea Sperelli) -> Svevo (L'inetto)
 

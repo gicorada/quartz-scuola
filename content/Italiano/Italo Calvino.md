@@ -1,3 +1,6 @@
+---
+title: Italo Calvino
+---
 Unisce letteratura con tecnologia, nato in famiglia di scienziati a Cuba
 
 Collabora con la resistenza, rifiuta repubblica di Salò

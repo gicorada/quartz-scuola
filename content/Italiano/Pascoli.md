@@ -1,3 +1,6 @@
+---
+title: Pascoli
+---
 Pascoli critica gli orpelli linguistici nella poetica (accademismo)  
 Afferma invece che poetica => arte del togliere, non del mettere  
 La poesia dice tutto in forma essenziale  

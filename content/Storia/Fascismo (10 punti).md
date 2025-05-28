@@ -1,4 +1,7 @@
-1) Non obbrdire alle richieste del governo in anticipo
+---
+title: Fascismo (10 punti)
+---
+1) Non obbedire alle richieste del governo in anticipo
    Esempio: richiesta ai pediatri di denunciare pazienti che hanno usato procreazione assistita. I pediatri non hanno eseguito l'ordine, non esisteva una legge e in ogni caso non l'avrebbero rispettata per la loro etica professionale
 2) Difendete le istituzioni
    Esempio: riforma della giustizia (separazione delle carriere), istituzione sarebbe attaccata
