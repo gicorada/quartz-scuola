@@ -99,6 +99,6 @@ Alcuni stati slavi si uniscono per creare una confederazione di stati slavi
 
 ---
 ## Rivoluzione Russa
-[Video "La rivoluzione russa in breve" - La storia sul tubo]()
+[Video "La rivoluzione russa in breve" - La storia sul tubo](https://youtu.be/QUhGNBCZZSc?si=jdTgZZ2iINQp0I0N)
 
 Quando Stalin giunge al potere non si parla più di rivoluzione socialista in Russia, con lui si crea l'URSS, nuovo totalitarismo al contrario di quello che voleva Lenin
