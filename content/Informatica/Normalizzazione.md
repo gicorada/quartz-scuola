@@ -22,7 +22,6 @@ R si decompone senza perdita su due relazioni se l'insieme degli attributi comun
 
 R(x) si decompone senza perdita in R<sub>1</sub>(x) e R<sub>2</sub>(x) se $\forall$ istanza legale (=valida) su R
 $$
-\LARGE
 \pi_{x_{1}}(r) \bowtie \pi_{x_{2}}(r) = r \iff x_{1} \cap x_{2} \to x_{1} \lor x_{1} \cap x_{2} \to x_{2}
 $$
 
