@@ -24,6 +24,6 @@ Calvino è contro a molte problematiche sociali (*La giornata di uno scrutatore*
 
 *Se una notte d'inverno un viaggiatore*
 
-*Palomar* (spagnolo per palombaro), osservatorio astronomico con due persone. C'è chi ritiene che Calvino racconti se stesso nella figura di Palomar
+*Palomar* (~~spagnolo per palombaro~~ <- lo ha detto Pierri ma non è vero, ha associazione mentale con palombaro, ed è il nome di un osservatorio astronomico, ma in spagnolo significa altro e Calvino ha espressamente detto che non è collegato). C'è chi ritiene che Calvino racconti se stesso nella figura di Palomar
 
 *Le lezioni americane* -> Ha fatto tempo solo a scriverle, doveva esporle ma è morto prima. Ne ha scritte cinque, ne voleva scrivere sei
